@@ -41,7 +41,7 @@ Explanation of the MQTT protocol, consisting of an MQTT Client publishing, MQTT 
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/advanced-web-iot.git
+   git clone https://github.com/diazadr/advanced-web-iot.git
    cd advanced-web-iot
    ```
 2. **Install dependencies**
